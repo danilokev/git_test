@@ -1,1 +1,1 @@
-Esto es un archivo txt para poder probar cómo es funcionamiento de Git.
+Esto es un archivo txt para poder probar cómo es el funcionamiento de Git.
